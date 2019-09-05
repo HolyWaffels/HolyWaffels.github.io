@@ -1,0 +1,42 @@
+body {
+  background-color: #1b1b1b;
+  font-family: "arial";
+  color: #ffc119;
+  background-image:url(https://www.visithirtshals.dk/sites/default/files/styles/news_and_article_image/public/asp/toppenafdanmark/toad/vinter/stjernehimmel-vinter.jpg?itok=Lxw6_PnI);
+}
+
+ul {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+h1 {
+  font-family: courier;
+}
+
+.hyperlink {
+  color: rgb(0, 255, 47);
+}
+
+a {
+  text-decoration: none;
+}
+
+.ruimtefoto {
+  float: right;
+  flex: auto;
+  width: 575px;
+  height: 300px;
+}
+
+.links {
+  position:absolute;
+  left: 48%;
+}
+
+.border {
+  border: 3px solid #ffc119;
+  padding: 10px;
+  margin: 5px;
+  width: 150px;
+}
